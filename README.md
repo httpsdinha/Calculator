@@ -4,7 +4,7 @@ Uma calculadora em Python que realiza operações de adição e subtração.
 ## Como Usar
 Para executar a calculadora, siga estas etapas:
 
-1. Execute o arquivo `calculator.py`.
+1. Execute o arquivo `calculadora.py` ou `calculadora.java`.
 2. Siga as instruções no console para selecionar uma operação (1 para adição, 2 para subtração).
 3. Digite os números quando solicitado e veja o resultado.
 
